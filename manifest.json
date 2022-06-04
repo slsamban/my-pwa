@@ -1,0 +1,35 @@
+{
+    "name": "PWA for Lab 2",
+    "short_name": "Lab2 PWA",
+    "start_url": "/my-pwa-lab2/",
+    "id": "/my-pwa-lab2/",
+    "description": "My app",
+    "display": "standalone",
+    "icons": [
+
+        {
+            "src": "android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+
+    ],
+    "background_color": "#a4e40e",
+    "theme_color": "#b61abb",
+    "orientation": "any"
+}
