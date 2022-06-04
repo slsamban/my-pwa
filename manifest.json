@@ -1,8 +1,8 @@
 {
     "name": "PWA for Lab 2",
     "short_name": "Lab2 PWA",
-    "start_url": "/my-pwa-lab2/",
-    "id": "/my-pwa-lab2/",
+    "start_url": "/my-pwa/",
+    "id": "/my-pwa/",
     "description": "My app",
     "display": "standalone",
     "icons": [
